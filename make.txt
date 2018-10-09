@@ -1,0 +1,4 @@
+To build the program:
+pip install cx_Freeze
+pip install -U wxPython
+setup.py build
