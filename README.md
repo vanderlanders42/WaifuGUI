@@ -1,5 +1,6 @@
 # WaifuGUI
 A waifu-converter-cpp interface.
+Also includes PngOptimizer, for reducing images size.
 
 This program is for Windows only.
 You can download it from the Releases tab.
